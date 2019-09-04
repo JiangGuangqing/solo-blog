@@ -10,7 +10,8 @@
 
 ### 最新
 
-* [世界，你好！](http://aumc.cc/hello-solo)
+* [我在 GitHub 上的开源项目](https://aumc.cc/my-github-repos)
+* [使用Laravel请求HTTP接口并接收数据](https://aumc.cc/articles/2019/09/04/1567596298112.html)
 
 
 
