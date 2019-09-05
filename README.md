@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://aumc.cc/my-github-repos)
+* [MacOS 安装软件提示文件已损坏解决办法](https://aumc.cc/articles/2019/09/05/1567663482915.html)
 * [使用Laravel请求HTTP接口并接收数据](https://aumc.cc/articles/2019/09/04/1567596298112.html)
 
 
