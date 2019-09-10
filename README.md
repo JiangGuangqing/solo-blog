@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [使用 composer 时提示putenv() has been disabled 解决方案](https://aumc.cc/articles/2019/09/10/1568095176971.html)
 * [使用composer 安装Laravel 指定版本](https://aumc.cc/articles/2019/09/09/1567998622948.html)
 * [MacOS 安装软件提示文件已损坏解决办法](https://aumc.cc/articles/2019/09/05/1567663482915.html)
 * [使用Laravel请求HTTP接口并接收数据](https://aumc.cc/articles/2019/09/04/1567596298112.html)
