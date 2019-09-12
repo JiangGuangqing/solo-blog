@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [MacOS SSH出现HOST KEY VERIFICATION FAILED错误的解决方法](https://aumc.cc/articles/2019/09/12/1568273963655.html)
+* [删除所有Aliyun监控进程，屏蔽云盾功能](https://aumc.cc/articles/2019/09/12/1568270217877.html)
 * [Mac使用 Charles 抓取 iPhone https包](https://aumc.cc/articles/2019/09/11/1568188525537.html)
 * [使用 composer 时提示putenv() has been disabled 解决方案](https://aumc.cc/articles/2019/09/10/1568095176971.html)
 * [使用composer 安装Laravel 指定版本](https://aumc.cc/articles/2019/09/09/1567998622948.html)
