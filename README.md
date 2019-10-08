@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Linux 设置开机自动启动 Chromium 浏览器并访问指定网址](https://aumc.cc/articles/2019/10/07/1570436291093.html)
+* [使用宝塔面板安装 solo 博客](https://aumc.cc/articles/2019/10/07/1570434668186.html)
 * [我在 GitHub 上的开源项目](https://aumc.cc/my-github-repos)
 * [MacOS SSH出现HOST KEY VERIFICATION FAILED错误的解决方法](https://aumc.cc/articles/2019/09/12/1568273963655.html)
 * [删除所有Aliyun监控进程，屏蔽云盾功能](https://aumc.cc/articles/2019/09/12/1568270217877.html)
