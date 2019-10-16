@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [laravel-admin 手动刷新后左侧导航不选中解决方案](https://aumc.cc/articles/2019/10/16/1571192966273.html)
+* [Linux 将系统 PHP 设置为宝塔面板安装的 PHP](https://aumc.cc/articles/2019/10/14/1571030930851.html)
 * [Linux 使用 Git每次操作码云都提示输入密码解决方案](https://aumc.cc/articles/2019/10/09/1570598111006.html)
 * [Linux 设置开机自动启动 Chromium 浏览器并访问指定网址](https://aumc.cc/articles/2019/10/07/1570436291093.html)
 * [使用宝塔面板安装 solo 博客](https://aumc.cc/articles/2019/10/07/1570434668186.html)
