@@ -2,7 +2,7 @@
 姜广庆的博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center"></h4>
 <p align="center"><a title="姜广庆的博客" target="_blank" href="https://github.com/JiangGuangqing/solo-blog"><img src="https://img.shields.io/github/last-commit/JiangGuangqing/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/JiangGuangqing/solo-blog"><img src="https://img.shields.io/github/repo-size/JiangGuangqing/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [PhpStorm 配置 laravel 框架代码提示](https://aumc.cc/articles/2019/10/22/1571708789104.html)
+* [laravel 使用阿里云语音合成 API](https://aumc.cc/articles/2019/10/21/1571640347241.html)
 * [laravel-admin 手动刷新后左侧导航不选中解决方案](https://aumc.cc/articles/2019/10/16/1571192966273.html)
 * [Linux 将系统 PHP 设置为宝塔面板安装的 PHP](https://aumc.cc/articles/2019/10/14/1571030930851.html)
 * [Linux 使用 Git每次操作码云都提示输入密码解决方案](https://aumc.cc/articles/2019/10/09/1570598111006.html)
