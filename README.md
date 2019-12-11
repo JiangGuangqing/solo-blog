@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Laravel 开发 API 提示跨域解决方案](https://aumc.cc/articles/2019/12/10/1575971835846.html)
+* [宝塔面板使用 webhook 自动同步码云代码](https://aumc.cc/articles/2019/11/21/1574313636658.html)
 * [PhpStorm 配置 laravel 框架代码提示](https://aumc.cc/articles/2019/10/22/1571708789104.html)
 * [laravel 使用阿里云语音合成 API](https://aumc.cc/articles/2019/10/21/1571640347241.html)
 * [laravel-admin 手动刷新后左侧导航不选中解决方案](https://aumc.cc/articles/2019/10/16/1571192966273.html)
